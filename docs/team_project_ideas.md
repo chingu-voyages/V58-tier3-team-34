@@ -12,7 +12,7 @@ you like the best.
 
 | Project Idea | Description | Ranjit | Pratyusa | Nadia | Kosiso | teammate name | teammate name |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| First idea | Description | | | | | | |
+| First idea | Description |Build an interactive dashboard where users can filter Chingu cohort data by region, skill level, and stack to spot patterns quickly. | | | | | |
 | Second idea | Description | | | | | | |
 | ... | Description | | | | | | |
 | Last idea | Description | | | | | | |
