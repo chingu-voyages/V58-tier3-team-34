@@ -13,6 +13,7 @@ you like the best.
 | Project Idea | Description | Ranjit | Pratyusa | Nadia | Kosiso | teammate name | teammate name |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | First idea | Description |Build an interactive dashboard where users can filter Chingu cohort data by region, skill level, and stack to spot patterns quickly. | | | | | |
-| Second idea | Description | | | | | | |
+| Second idea | Description |Create a comparison view that shows how different cohorts evolve over time, focusing on growth in skills or geographic diversity. | | | | | |
+| Third idea | Description |Add a forecasting tool that uses past Chingu demographic trends to predict upcoming cohort needs or shifts. | | | | | |
 | ... | Description | | | | | | |
 | Last idea | Description | | | | | | |
