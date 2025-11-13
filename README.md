@@ -1,4 +1,4 @@
-# Project Overview
+# Project Overview : Chingu Demographic Explorer
 
 The Chingu Demographic Explorer helps users understand cohort makeup through clear visuals and simple interaction. It highlights patterns in region, skill level, and tech stack, and can show how these change across cohorts. The goal is to support better planning and insight for future cohort design.
 
