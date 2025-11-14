@@ -23,3 +23,8 @@ Node and Express for backend endpoints (if needed)
 JSON or a small database like MongoDB for storing cohort data
 
 CSS or a UI library like Tailwind for styling
+
+
+## Our Team
+
+Nadiia Lashtun, Frontend Developer : [GitHub](https://github.com/NadiiaLashtun) / [LinkedIn](https://www.linkedin.com/in/lashtun)
