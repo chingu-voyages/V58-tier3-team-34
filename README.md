@@ -27,4 +27,6 @@ CSS or a UI library like Tailwind for styling
 
 ## Our Team
 
-Nadiia Lashtun, Frontend Developer : [GitHub](https://github.com/NadiiaLashtun) / [LinkedIn](https://www.linkedin.com/in/lashtun)
+- Nadiia Lashtun, Frontend Developer : [GitHub](https://github.com/NadiiaLashtun) / [LinkedIn](https://www.linkedin.com/in/lashtun)
+
+- Kosisochukwu Azubogu : [GitHub](https://github.com/azubogukosiso) / [LinkedIn](https://www.linkedin.com/in/azubogu-kosisochukwu)
