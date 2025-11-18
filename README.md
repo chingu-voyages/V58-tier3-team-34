@@ -24,6 +24,9 @@ JSON or a small database like MongoDB for storing cohort data
 
 CSS or a UI library like Tailwind for styling
 
+## Project Backlog
+https://github.com/orgs/chingu-voyages/projects/370/views/1
+
 ## Our Team
 
 - Pratyusha Dasari, Full stack developer : [GitHub](https://github.com/pratyusha-ds) / [LinkedIn](https://www.linkedin.com/in/pratyusha-ds)
