@@ -27,7 +27,6 @@ CSS or a UI library like Tailwind for styling
 ## Our Team
 
 - Pratyusha Dasari, Full stack developer : [GitHub](https://github.com/pratyusha-ds) / [LinkedIn](https://www.linkedin.com/in/pratyusha-ds)
-
 - Nadiia Lashtun, Frontend Developer : [GitHub](https://github.com/NadiiaLashtun) / [LinkedIn](https://www.linkedin.com/in/lashtun)
-
 - Kosisochukwu Azubogu : [GitHub](https://github.com/azubogukosiso) / [LinkedIn](https://www.linkedin.com/in/azubogu-kosisochukwu)
+- Ranjit Kumar Sangitra, Scrum Master : [GitHub](https://github.com/sangran22) / [LinkedIn](https://www.linkedin.com/in/ranjitsangitra)
