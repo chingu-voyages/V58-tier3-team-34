@@ -24,8 +24,9 @@ JSON or a small database like MongoDB for storing cohort data
 
 CSS or a UI library like Tailwind for styling
 
-
 ## Our Team
+
+- Pratyusha Dasari, Full stack developer : [GitHub](https://github.com/pratyusha-ds) / [LinkedIn](https://www.linkedin.com/in/pratyusha-ds)
 
 - Nadiia Lashtun, Frontend Developer : [GitHub](https://github.com/NadiiaLashtun) / [LinkedIn](https://www.linkedin.com/in/lashtun)
 
