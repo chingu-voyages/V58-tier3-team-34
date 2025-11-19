@@ -31,5 +31,5 @@ https://github.com/orgs/chingu-voyages/projects/370/views/1
 
 - Pratyusha Dasari, Full stack developer : [GitHub](https://github.com/pratyusha-ds) / [LinkedIn](https://www.linkedin.com/in/pratyusha-ds)
 - Nadiia Lashtun, Frontend Developer : [GitHub](https://github.com/NadiiaLashtun) / [LinkedIn](https://www.linkedin.com/in/lashtun)
-- Kosisochukwu Azubogu : [GitHub](https://github.com/azubogukosiso) / [LinkedIn](https://www.linkedin.com/in/azubogu-kosisochukwu)
+- Kosisochukwu Azubogu, Full Stack Developer : [GitHub](https://github.com/azubogukosiso) / [LinkedIn](https://www.linkedin.com/in/azubogu-kosisochukwu)
 - Ranjit Kumar Sangitra, Scrum Master : [GitHub](https://github.com/sangran22) / [LinkedIn](https://www.linkedin.com/in/ranjitsangitra)
